@@ -1,9 +1,8 @@
 #include <iostream>
+#include "MyGame.h"
 
-using namespace std;
-
-int main()
-{
-    cout << "Hello world!" << endl;
+int main(int argc, const char * argv[]) {
+    MyGame g;
+    g.start();
     return 0;
 }
