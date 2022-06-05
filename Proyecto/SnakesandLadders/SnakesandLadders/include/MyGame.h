@@ -1,3 +1,4 @@
+
 #ifndef MyGame_h
 #define MyGame_h
 
@@ -24,3 +25,4 @@ class MyGame {
 };
 
 #endif /* MyGame_h */
+
