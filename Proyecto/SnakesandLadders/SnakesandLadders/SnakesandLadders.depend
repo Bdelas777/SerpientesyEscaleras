@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1654463257 source:c:\users\6qv46la\onedrive\documentos\github\serpientesyescaleras\proyecto\snakesandladders\snakesandladders\src\board.cpp
+	<stdio.h>
+	<cstdlib>
+	"Board.h"
+
+1654463255 c:\users\6qv46la\onedrive\documentos\github\serpientesyescaleras\proyecto\snakesandladders\snakesandladders\include\board.h
+	<iostream>
+	<vector>
+
+1654463548 source:c:\users\6qv46la\onedrive\documentos\github\serpientesyescaleras\proyecto\snakesandladders\snakesandladders\src\dice.cpp
+	<stdio.h>
+	<cstdlib>
+	"Dice.h"
+
+1654463548 c:\users\6qv46la\onedrive\documentos\github\serpientesyescaleras\proyecto\snakesandladders\snakesandladders\include\dice.h
+	<vector>
+
+1654463859 source:c:\users\6qv46la\onedrive\documentos\github\serpientesyescaleras\proyecto\snakesandladders\snakesandladders\src\player.cpp
+	<stdio.h>
+	<string>
+	"Player.h"
+
+1654463859 c:\users\6qv46la\onedrive\documentos\github\serpientesyescaleras\proyecto\snakesandladders\snakesandladders\include\player.h
+	<iostream>
+
+1654463904 source:c:\users\6qv46la\onedrive\documentos\github\serpientesyescaleras\proyecto\snakesandladders\snakesandladders\main.cpp
+	<iostream>
+	"MyGame.h"
+
+1654464065 c:\users\6qv46la\onedrive\documentos\github\serpientesyescaleras\proyecto\snakesandladders\snakesandladders\include\mygame.h
+	<iostream>
+	<vector>
+	"Board.h"
+	"Player.h"
+	"Dice.h"
+
+1654464057 source:c:\users\6qv46la\onedrive\documentos\github\serpientesyescaleras\proyecto\snakesandladders\snakesandladders\src\mygame.cpp
+	<stdio.h>
+	"Dice.h"
+	"Board.h"
+	"MyGame.h"
+
